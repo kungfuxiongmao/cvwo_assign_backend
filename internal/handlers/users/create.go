@@ -7,10 +7,10 @@ import (
 
 	"github.com/gin-gonic/gin"
 	"github.com/jackc/pgx/v5/pgconn"
-	"github.com/kungfuxiongmao/sample-go-app/internal/api"
-	"github.com/kungfuxiongmao/sample-go-app/internal/dataaccess"
-	"github.com/kungfuxiongmao/sample-go-app/internal/middleware"
-	"github.com/kungfuxiongmao/sample-go-app/internal/models"
+	"github.com/kungfuxiongmao/cvwo_assign_backend/internal/api"
+	"github.com/kungfuxiongmao/cvwo_assign_backend/internal/dataaccess"
+	"github.com/kungfuxiongmao/cvwo_assign_backend/internal/middleware"
+	"github.com/kungfuxiongmao/cvwo_assign_backend/internal/models"
 	"golang.org/x/crypto/bcrypt"
 )
 

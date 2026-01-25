@@ -2,8 +2,8 @@ package users
 
 import (
 	"github.com/gin-gonic/gin"
-	"github.com/kungfuxiongmao/sample-go-app/internal/api"
-	"github.com/kungfuxiongmao/sample-go-app/internal/middleware"
+	"github.com/kungfuxiongmao/cvwo_assign_backend/internal/api"
+	"github.com/kungfuxiongmao/cvwo_assign_backend/internal/middleware"
 )
 
 func Logout(c *gin.Context) {

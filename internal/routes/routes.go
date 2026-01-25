@@ -2,11 +2,11 @@ package routes
 
 import (
 	"github.com/gin-gonic/gin"
-	"github.com/kungfuxiongmao/sample-go-app/internal/handlers/comments"
-	"github.com/kungfuxiongmao/sample-go-app/internal/handlers/posts"
-	"github.com/kungfuxiongmao/sample-go-app/internal/handlers/topics"
-	"github.com/kungfuxiongmao/sample-go-app/internal/handlers/users"
-	"github.com/kungfuxiongmao/sample-go-app/internal/middleware"
+	"github.com/kungfuxiongmao/cvwo_assign_backend/internal/handlers/comments"
+	"github.com/kungfuxiongmao/cvwo_assign_backend/internal/handlers/posts"
+	"github.com/kungfuxiongmao/cvwo_assign_backend/internal/handlers/topics"
+	"github.com/kungfuxiongmao/cvwo_assign_backend/internal/handlers/users"
+	"github.com/kungfuxiongmao/cvwo_assign_backend/internal/middleware"
 )
 
 func GetRoutes(r *gin.Engine) {

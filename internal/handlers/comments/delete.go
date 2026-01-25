@@ -4,10 +4,10 @@ import (
 	"net/http"
 
 	"github.com/gin-gonic/gin"
-	"github.com/kungfuxiongmao/sample-go-app/internal/api"
-	"github.com/kungfuxiongmao/sample-go-app/internal/dataaccess"
-	"github.com/kungfuxiongmao/sample-go-app/internal/middleware"
-	"github.com/kungfuxiongmao/sample-go-app/internal/models"
+	"github.com/kungfuxiongmao/cvwo_assign_backend/internal/api"
+	"github.com/kungfuxiongmao/cvwo_assign_backend/internal/dataaccess"
+	"github.com/kungfuxiongmao/cvwo_assign_backend/internal/middleware"
+	"github.com/kungfuxiongmao/cvwo_assign_backend/internal/models"
 )
 
 func DeleteComment(c *gin.Context) {

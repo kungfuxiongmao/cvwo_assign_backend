@@ -2,8 +2,8 @@ package router
 
 import (
 	"github.com/gin-gonic/gin"
-	"github.com/kungfuxiongmao/sample-go-app/internal/middleware"
-	"github.com/kungfuxiongmao/sample-go-app/internal/routes"
+	"github.com/kungfuxiongmao/cvwo_assign_backend/internal/middleware"
+	"github.com/kungfuxiongmao/cvwo_assign_backend/internal/routes"
 	"gorm.io/gorm"
 )
 

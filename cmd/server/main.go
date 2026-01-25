@@ -5,8 +5,8 @@ import (
 	"os"
 
 	"github.com/joho/godotenv"
-	"github.com/kungfuxiongmao/sample-go-app/internal/database"
-	"github.com/kungfuxiongmao/sample-go-app/internal/router"
+	"github.com/kungfuxiongmao/cvwo_assign_backend/internal/database"
+	"github.com/kungfuxiongmao/cvwo_assign_backend/internal/router"
 )
 
 func main() {

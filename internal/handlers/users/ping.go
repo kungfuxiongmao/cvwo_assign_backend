@@ -4,7 +4,7 @@ import (
 	"net/http"
 
 	"github.com/gin-gonic/gin"
-	"github.com/kungfuxiongmao/sample-go-app/internal/api"
+	"github.com/kungfuxiongmao/cvwo_assign_backend/internal/api"
 )
 
 func GetProfile(c *gin.Context) {

@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"os"
 
-	"github.com/kungfuxiongmao/sample-go-app/internal/models"
+	"github.com/kungfuxiongmao/cvwo_assign_backend/internal/models"
 	"gorm.io/driver/postgres"
 	"gorm.io/gorm"
 )

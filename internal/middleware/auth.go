@@ -9,7 +9,7 @@ import (
 
 	"github.com/gin-gonic/gin"
 	"github.com/golang-jwt/jwt/v5"
-	"github.com/kungfuxiongmao/sample-go-app/internal/api"
+	"github.com/kungfuxiongmao/cvwo_assign_backend/internal/api"
 )
 
 const (
