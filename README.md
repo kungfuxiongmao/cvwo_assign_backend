@@ -53,3 +53,6 @@ GO_ENV="local"/"production"
 go run main.go
 ```
 
+## AI Declaration
+AI has been used in implementing the project, in explaining concepts and aiding in decision making, as well as in code review.
+
