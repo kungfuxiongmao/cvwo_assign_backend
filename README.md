@@ -1,4 +1,4 @@
-# Sample Go App
+# Forum Backend App
 
 A backend web application built with **Go**, **Gin**, **GORM**, **Bcrypt** and **PostgreSQL**.  
 This project provides APIs for managing users, posts, topics, and comments.
